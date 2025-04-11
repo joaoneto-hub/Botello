@@ -1,0 +1,34 @@
+# node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv
+.env
+
+# build
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Sessions
+session/
+
+# Puppeteer / Venom-bot cache
+.screenshot/
+.token_auth/
+tokens/
+
+# Optional
+coverage/
